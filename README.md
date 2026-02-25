@@ -23,8 +23,5 @@ Este projeto realiza uma **Análise Exploratória de Dados (EDA)** detalhada sob
 - **Visualização:** Seaborn, Matplotlib
 - **Formato de Dados:** JSON / CSV
 
-## 📂 Estrutura
-- `analise_logistica.ipynb`: Notebook contendo todo o pipeline de extração, limpeza e visualização de dados.
-
 ---
 Desenvolvido por [Guilherme Henrick Lima de Paiva](mailto:guilhermehenrickhlp@gmail.com)
